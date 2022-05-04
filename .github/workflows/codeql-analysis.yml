@@ -20,9 +20,11 @@ on:
   schedule:
     - cron: '31 6 * * 5'
 
-jobs:
+jobs:hentai 
+      anime 
+      media 
   analyze:
-    name: Analyze
+    name: konobot
     runs-on: ubuntu-latest
     permissions:
       actions: read
